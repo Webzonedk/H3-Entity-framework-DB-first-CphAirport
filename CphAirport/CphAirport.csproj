@@ -96,6 +96,7 @@
     </None>
     <None Include="App.config" />
     <None Include="CPH-airport-ERdiagram.drawio" />
+    <None Include="CPH-airport-ERdiagram.pdf" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
